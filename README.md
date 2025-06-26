@@ -76,4 +76,7 @@ Features:
 🔒 Logout and session clear for admin
 → /admin-logout/
 
+Note : for custom admin: username=admin and password =admin123
+Some part of admin controls are still in progress due to lack of time and can be modified later.
+
 
