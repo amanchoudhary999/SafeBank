@@ -43,8 +43,37 @@ To Run the SafeBank Banking Website:
 
 Step 1: Install VS Code and Python (version 3.10 or higher) from Google.
 Step 2: Open Command Prompt and install required libraries by typing:
-
 ```bash
 pip install django pillow
 ```
+Step 3: Clone the GitHub repository in VS Code using this link:
+https://github.com/amanchoudhary999/SafeBank.git
+Step 4: In VS Code, open the folder SafeBank, then click on “Terminal → New Terminal” and run:
+
+```bash
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+```
+Step 5: Open your browser and go to:
+http://127.0.0.1:8000
+You will now see the SafeBank web application running locally.
+
+✅ Custom Admin Dashboard
+📍 URL: http://127.0.0.1:8000/admin-dashboard/
+
+Features:
+
+👥 View all registered users
+→ /admin-users/
+
+💳 View all account and balance details
+→ /admin-users/ (combined with user info)
+
+📜 View all transaction history
+→ /admin-transactions/
+
+🔒 Logout and session clear for admin
+→ /admin-logout/
+
 
