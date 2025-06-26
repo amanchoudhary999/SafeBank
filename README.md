@@ -38,3 +38,13 @@ SafeBank is a full-stack web application built with Django that simulates the co
 ```bash
 git clone https://github.com/amanchoudhary999/SafeBank.git
 cd SafeBank
+```
+To Run the SafeBank Banking Website:
+
+Step 1: Install VS Code and Python (version 3.10 or higher) from Google.
+Step 2: Open Command Prompt and install required libraries by typing:
+
+```bash
+pip install django pillow
+```
+
