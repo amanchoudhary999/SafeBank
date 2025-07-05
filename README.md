@@ -76,4 +76,9 @@ Features:
 Note : for custom admin: username=admin and password =admin123
 Some part of admin controls are still in progress due to lack of time and can be modified later.
 
+### 🔗 Live Demo
+
+[![Deployment](https://img.shields.io/badge/Live-SafeBank-blue?style=for-the-badge&logo=vercel)]([https://your-deployed-url.com](https://safebank-yiki.onrender.com/))
+
+
 
