@@ -64,11 +64,8 @@ You will now see the SafeBank web application running locally.
 
 Features:
 
-👥 View all registered users
-→ /admin-users/
-
 💳 View all account and balance details
-→ /admin-users/ (combined with user info)
+→ /admin-dashboard/ (combined with user info)
 
 📜 View all transaction history
 → /admin-transactions/
